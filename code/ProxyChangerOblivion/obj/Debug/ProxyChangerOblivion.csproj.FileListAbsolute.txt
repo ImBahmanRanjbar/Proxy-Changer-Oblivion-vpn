@@ -1,0 +1,7 @@
+C:\Users\sadat system\Desktop\ProxyChangerOblivion\ProxyChangerOblivion\bin\Debug\ProxyChangerOblivion.exe.config
+C:\Users\sadat system\Desktop\ProxyChangerOblivion\ProxyChangerOblivion\bin\Debug\ProxyChangerOblivion.exe
+C:\Users\sadat system\Desktop\ProxyChangerOblivion\ProxyChangerOblivion\bin\Debug\ProxyChangerOblivion.pdb
+C:\Users\sadat system\Desktop\ProxyChangerOblivion\ProxyChangerOblivion\obj\Debug\ProxyChangerOblivion.csproj.AssemblyReference.cache
+C:\Users\sadat system\Desktop\ProxyChangerOblivion\ProxyChangerOblivion\obj\Debug\ProxyChangerOblivion.csproj.CoreCompileInputs.cache
+C:\Users\sadat system\Desktop\ProxyChangerOblivion\ProxyChangerOblivion\obj\Debug\ProxyChangerOblivion.exe
+C:\Users\sadat system\Desktop\ProxyChangerOblivion\ProxyChangerOblivion\obj\Debug\ProxyChangerOblivion.pdb
